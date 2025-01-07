@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lubazzana
-- 👩‍💻 I'm a Graphic Designer Ssr. - UX/UI Designer and Frontend Developer Jr
-- 👀 I’m interested in designing webs and apps. I really enjoy that!
-- 🌱 I’m currently learning JavaScript and React.js
+- 👩‍💻 I'm a Frontend Developer Jr. and UI Designer Jr.
+- 👀 I’m interested in designing websites and apps. I really enjoy that!
+- 🌱 I’m currently learning Python
 - 📫 How to reach me --> https://www.linkedin.com/in/maria-lucrecia-bazzana-sosa/ or lucreciabazzana@gmail.com
 
 <!---
